@@ -1,0 +1,32 @@
+h1 { 
+   font-family: 'Sigmar One', cursive;
+    font-size: 57px;
+    color:midnightblue ;
+}
+
+h2 {
+    font-family: 'Baloo Thambi', cursive;
+    color: dodgerblue;
+    font-size: 35px;
+}
+
+li {
+   font-family: 'Reenie Beanie', cursive;
+    font-size: 20px;
+}
+
+body {
+ background-image:url(https://www.xmple.com/wallpaper/pink-gradient-white-linear-5120x2880-c2-ffb6c1-ffffff-a-15-f-14.svg);
+}
+
+img {
+    width: 600px;
+    border-radius:70px ; 
+}
+
+body{
+ text-align: center;
+}
+
+
+
