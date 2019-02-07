@@ -1,22 +1,24 @@
 h1 { 
    font-family: 'Sigmar One', cursive;
-    font-size: 57px;
+    font-size: 90px;
     color:midnightblue ;
 }
 
 h2 {
     font-family: 'Baloo Thambi', cursive;
     color: dodgerblue;
-    font-size: 35px;
+    font-size: 70px;
 }
 
 li {
    font-family: 'Reenie Beanie', cursive;
-    font-size: 20px;
+    font-size: 60px;
 }
 
 body {
- background-image:url(https://www.xmple.com/wallpaper/pink-gradient-white-linear-5120x2880-c2-ffb6c1-ffffff-a-15-f-14.svg);
+    background-image:url(https://www.xmple.com/wallpaper/pink-gradient-white-linear-5120x2880-c2-ffb6c1-ffffff-a-15-f-14.svg);
+    text-align: center;
+    
 }
 
 img {
@@ -24,9 +26,13 @@ img {
     border-radius:70px ; 
 }
 
-body{
- text-align: center;
+button {
+    width: 140px;
+    height: 120px;
+    font-size: 40px;
 }
+
+
 
 
 
